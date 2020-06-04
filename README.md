@@ -1,4 +1,4 @@
-A simple weather app who shows the temperature.
+A simple weather app written with ReactJS who shows the temperature.
 Techs:
 1. "componentDitMount()" to initialize the app.
 2. Get current location using js build-in library "navigator".
